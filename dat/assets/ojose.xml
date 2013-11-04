@@ -2,7 +2,7 @@
 <asset name="Ojose">
  <pos>
   <x>6000.00000</x>
-  <y>-4000.00000</y>
+  <y>-3500.00000</y>
  </pos>
  <GFX>
   <space>D06.png</space>
@@ -16,7 +16,7 @@
  <general>
   <class>D</class>
   <population>1000000</population>
-  <hide>1.250000</hide>
+  <hide>1.750000</hide>
   <services>
    <land/>
    <refuel/>

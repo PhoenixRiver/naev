@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <asset name="H100">
  <pos>
-  <x>-900.000000</x>
-  <y>1500.000000</y>
+  <x>-700.000000</x>
+  <y>1400.000000</y>
  </pos>
  <GFX>
   <space>asteroid-D00.png</space>

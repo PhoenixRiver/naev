@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <asset name="Utufi">
  <pos>
-  <x>1000.00000</x>
+  <x>2000.00000</x>
   <y>-13000.00000</y>
  </pos>
  <GFX>
@@ -16,7 +16,7 @@
  <general>
   <class>D</class>
   <population>1000000</population>
-  <hide>1.250000</hide>
+  <hide>1.750000</hide>
   <services>
    <land/>
    <refuel/>
