@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="H558">
+ <pos>
+  <x>5684.067500</x>
+  <y>-8985.697500</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D58.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>1.900000</hide>
+  <services/>
+ </general>
+</asset>

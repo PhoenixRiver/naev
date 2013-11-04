@@ -35,7 +35,7 @@
   </jump>
   <jump target="Heiwa Omega">
    <pos x="1.000000" y="1.000000"/>
-   <hide>2.000000</hide>
+   <hide>0.100000</hide>
   </jump>
  </jumps>
 </ssys>

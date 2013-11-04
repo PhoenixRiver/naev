@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="H126">
+ <pos>
+  <x>6299.795000</x>
+  <y>-5915.767500</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D26.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>1.900000</hide>
+  <services/>
+ </general>
+</asset>

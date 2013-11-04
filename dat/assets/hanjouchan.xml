@@ -2,11 +2,11 @@
 <asset name="Hanjouchan">
  <pos>
   <x>-1500.000000</x>
-  <y>-9000.000000</y>
+  <y>-12000.000000</y>
  </pos>
  <GFX>
   <space>M07.png</space>
-  <exterior>traderoom.png</exterior>
+  <exterior>forest.png</exterior>
  </GFX>
  <presence>
   <faction>Independent</faction>
@@ -16,7 +16,7 @@
  <general>
   <class>M</class>
   <population>357913579</population>
-  <hide>0.100000</hide>
+  <hide>1.900000</hide>
   <services>
    <land/>
    <refuel/>
@@ -27,9 +27,8 @@
   <commodities>
    <commodity>Food</commodity>
    <commodity>Medicine</commodity>
-   <commodity>Ore</commodity>
   </commodities>
-  <description>Hanjouchan is the younger sister of Hanjoukun, despite being in a different system, trading in this little backwater is a serious business and many a local trader has worked his way into the big leagues here only to discover the rest of the Empire's opportunites - nestled in a rather less than accessible or salubrious part of the Empire it is little wonder it has been all but forgotten.</description>
+  <description>Hanjouchan is the younger sister of Hanjoukun, despite being in a different system. Trading in this little backwater is a serious business and many a local trader has worked his way into the big leagues. Those who leave though are always rather shocked to discover the rest of the Empire's opportunites.</description>
   <bar>The locals seem to have very good taste in decoration and a rather delicate artistry in their manufacturing. In terms of furniture, though, they seem a little lacking as there are no chairs in this bar - instead they have tables set into the floor with space to lay ones legs underneath them. They also have small booths that seem to contain large groups of people singing to backing tracks and clearly becoming very intoxicated - though given the amount of alcohol in the drinks one wonders what on.</bar>
  </general>
 </asset>

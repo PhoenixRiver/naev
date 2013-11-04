@@ -8,7 +8,7 @@
  </general>
  <pos>
   <x>299.721965</x>
-  <y>140.336163</y>
+  <y>150.336163</y>
  </pos>
  <assets>
   <asset>Hanjoukun</asset>
@@ -21,7 +21,7 @@
   </jump>
   <jump target="Heiwa Omega">
    <autopos/>
-   <hide>0.500000</hide>
+   <hide>1.950000</hide>
   </jump>
  </jumps>
 </ssys>

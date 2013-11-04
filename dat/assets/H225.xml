@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="H225">
+ <pos>
+  <x>-5223.565000</x>
+  <y>-12253.177500</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D25.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>1.900000</hide>
+  <services/>
+ </general>
+</asset>

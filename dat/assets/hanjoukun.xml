@@ -2,11 +2,11 @@
 <asset name="Hanjoukun">
  <pos>
   <x>1500.000000</x>
-  <y>-10000.000000</y>
+  <y>-13000.000000</y>
  </pos>
  <GFX>
   <space>M08.png</space>
-  <exterior>traderoom.png</exterior>
+  <exterior>forest2.png</exterior>
  </GFX>
  <presence>
   <faction>Independent</faction>
@@ -16,7 +16,7 @@
  <general>
   <class>M</class>
   <population>531975319</population>
-  <hide>0.150000</hide>
+  <hide>1.900000</hide>
   <services>
    <land/>
    <refuel/>
@@ -27,9 +27,8 @@
   <commodities>
    <commodity>Food</commodity>
    <commodity>Medicine</commodity>
-   <commodity>Ore</commodity>
   </commodities>
-  <description>Hanjoukun is the older brother of Hanjouchan, despite being in a different system, trading in this little backwater is a serious business and many a local trader has worked his way into the big leagues here only to discover the rest of the Empire's opportunites - nestled in the most inhospitable part of the navagable Empire it is no wonder it was all but forgotten.</description>
+  <description>Hanjoukun is the older brother of Hanjouchan, despite being in a different system.  Nestled in a rather less than accessible or salubrious part of the Empire it is little wonder Hanjoukun has been all but forgotten. The trading opportunities here, though limited, are, however, voraciously and politely fought over.</description>
   <bar>A tasteful little bar with no seats but a very comfortable floor and the patrons seem to be drinking as much tea as they do alcoholic beverages, and having tasted one of those you are none too convinced the term 'alcoholic' really applies. That said, everyone is very polite, even while very intoxicated.</bar>
  </general>
 </asset>

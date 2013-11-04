@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Edenu">
+ <pos>
+  <x>-8000.00000</x>
+  <y>-4000.00000</y>
+ </pos>
+ <GFX>
+  <space>D04.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>D</class>
+  <population>1000000</population>
+  <hide>1.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description></description>
+  <bar></bar>
+ </general>
+ <tech>
+  <item>All Commodities</item>
+  <item>Trader Tech</item>
+  <item>Systems Low</item>
+  <item>Engines High</item>
+  <item>Hulls Medium</item>
+  <item>Map: Nebula Edge</item>
+  <item>Map: Dvaered-Soromid trade route</item>
+  <item>Map: The Frontier</item>
+  <item>Map: Dvaered Core</item>
+  <item>Basic Trade Ships</item>
+ </tech>
+</asset>

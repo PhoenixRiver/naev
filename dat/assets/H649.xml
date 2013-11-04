@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="H649">
+ <pos>
+  <x>4770.395000</x>
+  <y>-1170.277500</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D49.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>1.900000</hide>
+  <services/>
+ </general>
+</asset>

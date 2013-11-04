@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Alamo">
+ <pos>
+  <x>-3000.00000</x>
+  <y>-13000.00000</y>
+ </pos>
+ <GFX>
+  <space>D03.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>D</class>
+  <population>1000000</population>
+  <hide>1.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description></description>
+  <bar></bar>
+ </general>
+ <tech>
+  <item>All Commodities</item>
+  <item>Trader Tech</item>
+  <item>Laser Cannon MK2</item>
+  <item>Laser Turret MK2</item>
+  <item>Razor MK2</item>
+  <item>Razor Turret MK2</item>
+  <item>Plasma Blaster MK2</item>
+  <item>Plasma Turret MK2</item>
+  <item>Medium Combat Vessel License</item>
+  <item>Medium Weapon License</item>
+  <item>Systems High</item>
+  <item>Engines Low</item>
+  <item>Hulls Medium</item>
+  <item>Map: Nebula Edge</item>
+  <item>Map: Dvaered-Soromid trade route</item>
+  <item>Map: The Frontier</item>
+  <item>Map: Dvaered Core</item>
+  <item>Heavy Civilian Combat Ships</item>
+ </tech>
+</asset>

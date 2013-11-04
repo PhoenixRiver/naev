@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="H533">
+ <pos>
+  <x>-5645.547500</x>
+  <y>-160.877500</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D33.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>1.900000</hide>
+  <services/>
+ </general>
+</asset>

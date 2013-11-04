@@ -666,6 +666,37 @@
   <item>Map: Za'lek Core</item>
   <item>Local System Map</item>
  </tech>
+<tech name="Trader Tech">
+  <item>Laser Cannon MK1</item>
+  <item>Laser Turret MK1</item>
+  <item>Razor MK1</item>
+  <item>Razor Turret MK1</item>
+  <item>Plasma Blaster MK1</item>
+  <item>Plasma Turret MK1</item>
+  <item>Solar Panel</item>
+  <item>Reactor Class I</item>
+  <item>Shield Capacitor</item>
+  <item>Small Shield Booster</item>
+  <item>Medium Shield Booster</item>
+  <item>Droid Repair Crew</item>
+  <item>Engine Reroute</item>
+  <item>Improved Stabilizer</item>
+  <item>Steering Thrusters</item>
+  <item>Generic Afterburner</item>
+  <item>Hellburner</item>
+  <item>Emergency Shield Booster</item>
+  <item>Reverse Thrusters</item>
+  <item>Fuel Pod</item>
+  <item>Large Fuel Pod</item>
+  <item>Cargo Pod</item>
+  <item>Unicorp Scrambler</item>
+  <item>Milspec Scrambler</item>
+  <item>Unicorp Jammer</item>
+  <item>GUI - Brushed</item>
+  <item>GUI - Legacy</item>
+  <item>Jump Scanner</item>
+</tech>
+
 
  <!-- Ships -->
  <tech name="Basic Civilian Ships">

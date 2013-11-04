@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="H442">
+ <pos>
+  <x>-7406.752500</x>
+  <y>-9205.085000</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D42.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>1.900000</hide>
+  <services/>
+ </general>
+</asset>

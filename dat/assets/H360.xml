@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="H360">
+ <pos>
+  <x>-6224.560000</x>
+  <y>-11333.902500</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D60.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>1.900000</hide>
+  <services/>
+ </general>
+</asset>

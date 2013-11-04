@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="H335">
+ <pos>
+  <x>-3132.152500</x>
+  <y>1525.717500</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D35.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>1.900000</hide>
+  <services/>
+ </general>
+</asset>

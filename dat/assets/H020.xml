@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <asset name="H020">
  <pos>
-  <x>9129.450000</x>
-  <y>4080.820000</y>
+  <x>4282.167500</x>
+  <y>-380.925000</y>
  </pos>
  <GFX>
   <space>asteroid-D20.png</space>
@@ -11,7 +11,7 @@
  <general>
   <class>A</class>
   <population>0</population>
-  <hide>0.010000</hide>
+  <hide>1.900000</hide>
   <services/>
  </general>
 </asset>

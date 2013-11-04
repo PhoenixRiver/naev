@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="H748">
+ <pos>
+  <x>5764.150000</x>
+  <y>-8294.862500</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D48.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>1.900000</hide>
+  <services/>
+ </general>
+</asset>

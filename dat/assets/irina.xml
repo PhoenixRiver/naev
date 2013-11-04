@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irina">
+ <pos>
+  <x>-1000.00000</x>
+  <y>1500.00000</y>
+ </pos>
+ <GFX>
+  <space>D05.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>D</class>
+  <population>1000000</population>
+  <hide>1.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description></description>
+  <bar></bar>
+ </general>
+ <tech>
+  <item>All Commodities</item>
+  <item>Trader Tech</item>
+  <item>Laser Cannon MK2</item>
+  <item>Laser Turret MK2</item>
+  <item>Razor MK2</item>
+  <item>Razor Turret MK2</item>
+  <item>Plasma Blaster MK2</item>
+  <item>Plasma Turret MK2</item>
+  <item>Light Combat Vessel License</item>
+  <item>Large Civilian Vessel License</item>
+  <item>Medium Weapon License</item>
+  <item>Systems Medium</item>
+  <item>Engines High</item>
+  <item>Hulls Medium</item>
+  <item>Map: Nebula Edge</item>
+  <item>Map: Dvaered-Soromid trade route</item>
+  <item>Map: The Frontier</item>
+  <item>Map: Dvaered Core</item>
+  <item>Light Civilian Combat Ships</item>
+  <item>Bulk Trade Ships</item>
+ </tech>
+</asset>

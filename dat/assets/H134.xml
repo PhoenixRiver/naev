@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="H134">
+ <pos>
+  <x>3300.897500</x>
+  <y>-12212.655000</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D34.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>1.900000</hide>
+  <services/>
+ </general>
+</asset>

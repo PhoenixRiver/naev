@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="H761">
+ <pos>
+  <x>4230.072500</x>
+  <y>-638.182500</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D61.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>1.900000</hide>
+  <services/>
+ </general>
+</asset>

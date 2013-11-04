@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="H420">
+ <pos>
+  <x>6560.185000</x>
+  <y>-6951.242500</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D20.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>1.900000</hide>
+  <services/>
+ </general>
+</asset>
