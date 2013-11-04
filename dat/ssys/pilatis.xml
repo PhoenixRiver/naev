@@ -30,6 +30,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Heiwa Alpha">
+   <autopos/>
+   <hide>0.250000</hide>
+  </jump>
   <jump target="Thorndyke">
    <autopos/>
    <hide>1.250000</hide>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Hanjou Beta">
+ <general>
+  <radius>15000.000000</radius>
+  <stars>75</stars>
+  <interference>200.000000</interference>
+  <nebula volatility="20.000000">20.000000</nebula>
+ </general>
+ <pos>
+  <x>217.738940</x>
+  <y>118.634774</y>
+ </pos>
+ <assets>
+  <asset>Hanjouchan</asset>
+  <asset>Virtual Trader Local</asset>
+ </assets>
+ <jumps>
+  <jump target="Heiwa Alpha">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Heiwa Omega">
+   <autopos/>
+   <hide>0.500000</hide>
+  </jump>
+ </jumps>
+</ssys>

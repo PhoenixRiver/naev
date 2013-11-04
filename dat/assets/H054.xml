@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="H054">
+ <pos>
+  <x>-5587.890000</x>
+  <y>-8293.090000</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D54.png</space>
+  <exterior>asteroid.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.010000</hide>
+  <services/>
+ </general>
+</asset>

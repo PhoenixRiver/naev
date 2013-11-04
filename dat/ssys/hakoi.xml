@@ -33,5 +33,9 @@
    <hidden/>
    <hide>1.000000</hide>
   </jump>
+  <jump target="Heiwa Omega">
+   <pos x="1.000000" y="1.000000"/>
+   <hide>2.000000</hide>
+  </jump>
  </jumps>
 </ssys>

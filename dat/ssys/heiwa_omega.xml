@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Heiwa Omega">
+ <general>
+  <radius>20000.000000</radius>
+  <stars>2001</stars>
+  <interference>420.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>275.609311</x>
+  <y>92.914609</y>
+ </pos>
+ <assets>
+  <asset>H000</asset>
+  <asset>H001</asset>
+  <asset>H002</asset>
+  <asset>H003</asset>
+  <asset>H004</asset>
+  <asset>H005</asset>
+  <asset>H006</asset>
+  <asset>H007</asset>
+  <asset>H008</asset>
+  <asset>H009</asset>
+  <asset>H010</asset>
+  <asset>H011</asset>
+  <asset>H012</asset>
+  <asset>H013</asset>
+  <asset>H014</asset>
+  <asset>H015</asset>
+  <asset>H016</asset>
+  <asset>H017</asset>
+  <asset>H018</asset>
+  <asset>H019</asset>
+  <asset>H020</asset>
+  <asset>H021</asset>
+  <asset>H022</asset>
+  <asset>H023</asset>
+  <asset>H024</asset>
+  <asset>H025</asset>
+  <asset>H026</asset>
+  <asset>H027</asset>
+  <asset>H028</asset>
+  <asset>H029</asset>
+  <asset>H030</asset>
+  <asset>H031</asset>
+  <asset>H032</asset>
+  <asset>H033</asset>
+  <asset>H034</asset>
+  <asset>H035</asset>
+  <asset>H036</asset>
+  <asset>H037</asset>
+  <asset>H038</asset>
+  <asset>H039</asset>
+  <asset>H040</asset>
+  <asset>H041</asset>
+  <asset>H042</asset>
+  <asset>H043</asset>
+  <asset>H044</asset>
+  <asset>H045</asset>
+  <asset>H046</asset>
+  <asset>H047</asset>
+  <asset>H048</asset>
+  <asset>H049</asset>
+  <asset>H050</asset>
+  <asset>H051</asset>
+  <asset>H052</asset>
+  <asset>H053</asset>
+  <asset>H054</asset>
+  <asset>H055</asset>
+  <asset>H056</asset>
+  <asset>H057</asset>
+  <asset>H058</asset>
+  <asset>H059</asset>
+  <asset>H060</asset>
+  <asset>H061</asset>
+  <asset>H062</asset>
+  <asset>H063</asset>
+  <asset>Virtual Trader Area</asset>
+  <asset>Virtual Civilian Standard</asset>
+ </assets>
+ <jumps>
+  <jump target="Hanjou Alpha">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Hanjou Beta">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Hakoi">
+   <pos x="1.000000" y="1.000000"/>
+   <hide>2.000000</hide>
+  </jump>
+ </jumps>
+</ssys>
