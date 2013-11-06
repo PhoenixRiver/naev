@@ -9,7 +9,7 @@
   <exterior>asteroid.png</exterior>
  </GFX>
  <general>
-  <class>A</class>
+  <class>D</class>
   <population>0</population>
   <hide>1.900000</hide>
   <services/>

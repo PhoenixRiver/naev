@@ -26,8 +26,8 @@
    <outfits/>
    <shipyard/>
   </services>
-  <description></description>
-  <bar></bar>
+  <description>This small planetoid is the home of Wernet Trading Gmbh. Irina was the first of the asteroids to become "inhabitable", that is to say the first on which habitation domes were built on. The habitation domes now cover a sizable area and, as well as comprising of factories, living modules and other utilitarian areas, contains some quite beautiful parks and gardens that use the stark vistas out over the asteroid to good effect. </description>
+  <bar>Having a quiet and relatively relaxed atmosphere the spaceport bar is, never the less, a port of call for any visitor to Irina. Everyone who is anyone comes here to trade and do business, particularly in the fields of lightweight positronics, ore extraction and bulk shipment.</bar>
  </general>
  <tech>
   <item>All Commodities</item>

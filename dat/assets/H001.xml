@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="H636">
+<asset name="H001">
  <pos>
-  <x>-2728.627500</x>
-  <y>1022.427500</y>
+  <x>3641.337500</x>
+  <y>-95.257500</y>
  </pos>
  <GFX>
-  <space>asteroid-D36.png</space>
+  <space>asteroid-D01.png</space>
   <exterior>asteroid.png</exterior>
  </GFX>
  <general>
