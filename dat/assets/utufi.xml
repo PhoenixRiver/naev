@@ -26,8 +26,8 @@
    <outfits/>
    <shipyard/>
   </services>
-  <description></description>
-  <bar></bar>
+  <description>The headquarters and main transport hub of Van Rooyen (Pty) Ltd. is based here. Being less centrally located in the local systems the locals adapted by providing for the more prosperous clients. Whether you want something delivered quickly, quietly or to take it yourself in more comfort and speed than is provided by the average Rhino or Koala, this is the place to come.</description>
+  <bar>The bar is rather technically advanced compared to other bars in the system. The servers aren't robotic but they definitely give you the impression they are there more to lure clients in, and keep them there, than to hand out drinks. As you sit down in one of the cubicles the entrance curtains close and the table welcomes you, provides a list of drinks and assures you a server will be along with your drink as soon as you order it.</bar>
  </general>
  <tech>
   <item>All Commodities</item>
