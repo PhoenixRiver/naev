@@ -26,8 +26,8 @@
    <outfits/>
    <shipyard/>
   </services>
-  <description></description>
-  <bar></bar>
+  <description>The least well developed of the inhabited planetoids in this system, Edenu is tha home base of the ??? ???. This planetoid has specialised, if that is the word, in high output, low cost manufacturing - they produce the majority of the trade ships in these parts, even if they are the ones that people aspire in, rather than to. The spaceport, habitation domes and factories seem to also be rather more quickly and cheaply built than the citizens might hope for.</description>
+  <bar>Given the daily change of space scenery and the less than stellar build of the environs, the clientel of the spaceport bar seem rather blase. You can spot the off-worlders because they mostly seem to be carrying oxygen breaters about their person. Having said that, business seems to be brisk with a large number of negotiantions happening all around the bar... the barlady seems a little miffed that less business seems to be coming her way.</bar>
  </general>
  <tech>
   <item>All Commodities</item>
