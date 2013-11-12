@@ -67,6 +67,77 @@
   <logo>trader</logo>
   <longname>Space Traders Guild</longname>
   <player>3</player>
+  <colour>white</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+   <enemy>Raider</enemy>
+  </enemies>
+ </faction>
+ <faction name="EdenuTrader">
+  <logo>trader</logo>
+  <longname>Not Yet Known</longname>
+  <player>3</player>
+  <colour>white</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+   <enemy>Raider</enemy>
+  </enemies>
+ </faction>
+ <faction name="JonesTrader">
+  <logo>trader</logo>
+  <longname>Jones Corporation</longname>
+  <player>3</player>
+  <colour>white</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+   <enemy>Raider</enemy>
+  </enemies>
+ </faction>
+ <faction name="SantosTrader">
+  <logo>trader</logo>
+  <longname>Santos Haulage SA</longname>
+  <player>3</player>
+  <colour>white</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+   <enemy>Raider</enemy>
+  </enemies>
+ </faction>
+ <faction name="VanRooyenTrader">
+  <logo>trader</logo>
+  <longname>Van Rooyen (Pty) Ltd.</longname>
+  <player>3</player>
+  <colour>white</colour>
+  <spawn>trader</spawn>
+  <standing>trader</standing>
+  <allies>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+   <enemy>Raider</enemy>
+  </enemies>
+ </faction>
+ <faction name="WernetTrader">
+  <logo>trader</logo>
+  <longname>Wernet Trading Gmbh</longname>
+  <player>3</player>
+  <colour>white</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <allies>
